@@ -7,5 +7,6 @@ public class scanner {
         double num1 = sc.nextDouble();
         double num2 = sc.nextDouble();
         System.out.println(num1 * num2);
+        
     }
 }

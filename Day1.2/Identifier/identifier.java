@@ -9,6 +9,6 @@ public class identifier {
         System.out.println("Age: " + age);
         System.out.println("Name: " + studentName);
         System.out.println("Salary: " + _salary);
-        System.out.println("Roll No: " + $rollNumber);
+        System.out.println("Roll No: " + $rollNumber1);
     }
 }
